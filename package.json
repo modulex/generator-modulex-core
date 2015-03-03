@@ -1,6 +1,6 @@
 {
     "name": "generator-modulex-core",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "yeoman generator for modulex core modules",
     "keywords": ["yeoman-generator", "modulex"],
     "dependencies": {
@@ -12,6 +12,6 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "http://github.com/kissyteam/generator-modulex-core.git"
+        "url": "http://github.com/modulex/generator-modulex-core.git"
     }
 }
